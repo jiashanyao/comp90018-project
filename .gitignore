@@ -1,5 +1,5 @@
 # API key
-\app\src\debug\res\values\google_maps_api.xml
+/app/src/debug/resvalues/google_maps_api.xml
 # Gradle files
-.gradle/
-build/
+/.gradle/
+/build/
